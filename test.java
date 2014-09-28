@@ -49,5 +49,6 @@ public class test{
 >>>>>>> 494ba910069f69ef697fd38563eb9e2b084a36ad
 =======
 	System.out.println("Hello. I'm Jessi Campbell, that guy with the afro.")
+	System.out.println("Gao Yingzhen");
     }
 }
