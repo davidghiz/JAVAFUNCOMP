@@ -50,6 +50,6 @@ public class test{
 =======
 	System.out.println("Hello. I'm Jessi Campbell, that guy with the afro.")
 	
-	System.outprintln("Alexander Sokolov");
+	System.out.println("Alexander Sokolov");
     }
 }
