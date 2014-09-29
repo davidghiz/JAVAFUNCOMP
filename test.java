@@ -13,7 +13,12 @@ public class test{
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	System.out.println("Ryan Colaiacovo");
+=======
+	System.out.println("Jun Guo");
+	System.out.println("Ryan Colaiacovo")
+>>>>>>> 0e84bad0f34b5cb2e6bb879fa3877fb7f3054a58
 =======
 	System.out.println("MATT SMITH was here");
 >>>>>>> e33ca8b0d9f495c941e87b7441d962196d4e5d3f
