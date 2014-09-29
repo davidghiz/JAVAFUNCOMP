@@ -64,6 +64,7 @@ public class test{
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 	System.out.println("Sarah Colborne")
 >>>>>>> 1a235688304bffe9e821aa67e2ed29bf5d8b3188
@@ -85,5 +86,8 @@ public class test{
 	
 	System.out.println("Hello my name is Fouad Kaadou");
 >>>>>>> fdd16b1f8d51eacfe259a01f2620a593ad96c6bf
+=======
+	System.out.println("Gao Yingzhen");
+>>>>>>> 53001f9bd2b2af76cac1b5bcd170373afa6541d4
     }
 }
