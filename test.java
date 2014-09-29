@@ -48,7 +48,13 @@ public class test{
 	System.out.println("Rebecca Ansems");
 >>>>>>> 494ba910069f69ef697fd38563eb9e2b084a36ad
 =======
+<<<<<<< HEAD
 	System.out.println("Hello. I'm Jessi Campbell, that guy with the afro.");
 	System.out.println("Devin Peck");
+=======
+	System.out.println("Hello. I'm Jessi Campbell, that guy with the afro.")
+	
+	System.out.println("Sarah Colborne")
+>>>>>>> 1a235688304bffe9e821aa67e2ed29bf5d8b3188
     }
 }
